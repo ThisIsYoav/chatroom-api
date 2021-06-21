@@ -2,7 +2,7 @@
 # Chatroom API
 
 ## Description
-Works alongside Chatroom App.
+Works alongside [Chatroom App](https://github.com/ThisIsYoav/chatroom-app).
 
 Uses Node.JS with Express.JS and Socket.IO for communication with the client;
 
